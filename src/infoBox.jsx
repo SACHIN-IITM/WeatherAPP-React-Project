@@ -9,9 +9,7 @@ import WbSunnyIcon from '@mui/icons-material/WbSunny';
 
 
 
-export default function InfoBox( { info } ) {
-    const Image_URL = "https://images.unsplash.com/photo-1673191898498-9bac443b2407?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGR1c3R5JTIwd2VhdGhlcnxlbnwwfHwwfHx8MA%3D%3D";
-    
+export default function InfoBox( { info } ) {    
     const HOT_URL = "https://images.unsplash.com/photo-1548017560-7fda8a680404?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG90JTIwdGVtcGVyYXR1cmV8ZW58MHx8MHx8fDA%3D";
     const COLD_URL = "https://images.unsplash.com/photo-1549752448-38f4d94420f5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTZ8fGNvbGQlMjB0ZW1wZXJhdHVyZXxlbnwwfHwwfHx8MA%3D%3D";
     const RAIN_URL = "https://images.unsplash.com/photo-1503435824048-a799a3a84bf7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHJhaW4lMjB0ZW1wZXJhdHVyZXxlbnwwfHwwfHx8MA%3D%3D";
